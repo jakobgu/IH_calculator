@@ -1,2 +1,2 @@
 # IH_calculator
-A repository that contains example .abf files and a jupiter notebook with some code to analyze these files and calculate the H-current for some example CA1 pyramidal cells
+A repository that contains several example .abf files from CA1 pyramidal cell recordings and a jupiter notebook to analyze these files and calculate the H-current
